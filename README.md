@@ -11,7 +11,7 @@ Hi, my name is **Florian**. I’m a junior full-stack developer with a unique ba
 - **Transition to Development**: These experiences gave me a deep understanding of **user needs** and inspired me to dive into coding. I’ve since developed skills in **front-end** and **back-end** development to create efficient, user-friendly solutions.
 
 ### My Strengths
-- **Dual Expertise**: A strong understanding of business challenges paired with solid technical skills.
+- **Dual Expertise**: A strong understanding of business challenges paired with technical skills.
 - **Adaptability and Continuous Learning**: Always eager to expand my knowledge and improve solutions.
 - **User-Centric Approach**: Focusing on real user needs to design relevant and effective solutions.
 
