@@ -4,10 +4,10 @@ Welcome to my GitHub profile! 🚀
 
 ## About Me
 
-Hi, my name is **Florian**. I’m a junior full-stack developer with a unique background: **10 years of experience in commerce**, including several years working closely with developers to design tailored solutions for construction professionals.
+Hi, my name is **Florian**. I’m a junior full-stack developer following a career change after **10 years of experience in commerce**, including several years working closely with developers to design solutions for construction professionals.
 
 ### My Journey
-- **Commerce and Digital Solutions**: I worked on innovative projects for a hybrid marketplace dedicated to artisans and construction companies, managing **product cataloging** and collaborating with technical teams.
+- **Commerce and Marketplace**: I worked on innovative projects for a hybrid marketplace dedicated to artisans and construction companies, managing **product cataloging** and collaborating with technical teams.
 - **Transition to Development**: These experiences gave me a deep understanding of **user needs** and inspired me to dive into coding. I’ve since developed skills in **front-end** and **back-end** development to create efficient, user-friendly solutions.
 
 ### My Strengths
