@@ -19,8 +19,7 @@ Hi, my name is **Florian**. I’m a junior full-stack developer following a care
 
 ## My Technical Skills
 - Java, Ruby, HTML, CSS, JavaScript, TypeScript
-- Frameworks: Spring, Ruby on Rails
-- Tools: Tailwind CSS
+- Frameworks: Spring, Ruby on Rails, Tailwind CSS
 - Databases: PostgreSQL
 
 ### Tools & Methodologies
