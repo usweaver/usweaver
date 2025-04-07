@@ -33,7 +33,7 @@ Hi, my name is **Florian**. I’m a junior full-stack developer following a care
 
 I’m always open to new opportunities and collaborations. Feel free to reach out:
 
-- 📧 **Email**: [fchapuis20@gmail.com](mailto:fchapuis20@gmail.com)
+- 📧 **Email**: [contact@usweaver.com](mailto:contact@usweaver.com)
 - 🌐 **LinkedIn**: [Florian Chapuis]( www.linkedin.com/in/florian-chapuis)
 
 ---
